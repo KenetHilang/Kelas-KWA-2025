@@ -7,6 +7,8 @@
 
 **Category:** Injection
 
+This challenge was about exploiting an SQL Injection vulnerability to extract sensitive user credentials from the application's database.
+
 ## Solution
 
 ### 1. Identifying the Injection Point
