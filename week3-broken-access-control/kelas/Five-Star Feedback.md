@@ -14,13 +14,13 @@ The "Five-Star Feedback" challenge requires to manipulate the review system of a
 ### 1. Accessing the Administration Page
 > Log in into the admin account as usual, using `' OR True --`, and then access the admin page
 
-![alt text](20250911_11h27m52s_grim.png)
+![alt text](./assets/Five-Star%20Feedback/20250911_11h27m52s_grim.png)
 
 
 ### 2. Deleting the Five-Star Review
 > Search for the five star review and then delete the five star review
 
-![alt text](20250911_11h27m13s_grim.png)
+![alt text](./assets/Five-Star%20Feedback/20250911_11h27m13s_grim.png)
 
 
 ### Solution Explanation
