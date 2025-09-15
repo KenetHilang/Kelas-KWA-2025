@@ -25,15 +25,15 @@ This challenge involves manipulating the review submission process in a web appl
 ### 2. Exploiting the Vulnerability
 > Modify the "user_id" parameter in the intercepted request to the ID of another user, preferably a user with higher privileges like an admin, to test if the application enforces proper authorization checks.
 
-![alt text](20250911_12h26m02s_grim.png) 
+![alt text](./assets/Forged-Review/20250911_12h26m02s_grim.png) 
 
 > Resend the modified request to see if the review gets posted under the changed user ID.
 
-![alt text](20250911_12h26m11s_grim.png) 
+![alt text](./assets/Forged-Review/20250911_12h26m11s_grim.png) 
 
 > Verify the review in the web app
 
-![alt text](20250911_12h26m41s_grim.png)
+![alt text](./assets/Forged-Review/20250911_12h26m41s_grim.png)
 
 ### Solution Explanation
 
